@@ -22,3 +22,8 @@ the freeCodeCamp Leaderboard project
 - When you are finished, click the "I've completed this challenge" button and include a link to your CodePen.
 
 - You can get feedback on your project by sharing it with your friends on Facebook.
+
+
+### Notes:
+
+- Decided to use Redux for app state management simply because I need the practice.
